@@ -1,0 +1,12 @@
+Jutro w Instytucie  odbedzie sie pokaz nowego polskiego lidara typu DIAL.
+Co to jest lidar?
+PROF. KRZYSZTOF  ERNST: Jest to urzadzenie pozwalajace wyznaczac zanieczyszczenia atmosfery metodami optycznymi.
+Nazywane tez jest radarem laserowym.Tego typu lidar jest drogi, kosztuje okolo  miliona marek niemieckich.
+DIAL - lidar absorbcji roznicowej  jest urzadzeniem inteligentnym, to znaczy potrafi rozroznic, co  mierzy.
+Wykrywa ozon, dwutlenek siarki, tlenki azotu, benzen, toluen.
+Z lidara korzysc mamy potrojna: uzyteczna, bo przy jego pomocy wykonujemy pomiary skazen atmosferycznych, korzysc naukowa - rozwijamy badania nad tym urzadzeniem, staramy sie m.in. rozszerzyc jego zastosowanie takze na inne substancje wystepujace w atmosferze.
+I korzysc dydaktyczna - szkolimy studentow zainteresowanych ochrona srodowiska.Lidar typu DIAL jest oparty na pomiarze absorbcji roznicowej, czyli musza byc zastosowane dwie wiazki laserowe o dwoch roznych dlugosciach fali, z ktorych jedna jest absorbowana, a druga nie jest absorbowana przez substancje, ktora chcemy wykryc.
+Czasteczki, ktore wykrywamy maja pasma absorbcji w bliskim nadfiolecie.Nasz lidar ma wieksze mozliwosci niz stacje monitoringowe.
+Mierzy zanieczyszczenia nie tylko lokalnie, ale tez ich rozklad w przestrzeni, z wysoka rozdzielczoscia przestrzenna i na odleglosc kilku kilometrow.
+Mozemy zatem sledzic ewolucje rozprzestrzeniania sie tych zanieczyszczen, ich kierunek i zmiany spowodowane m.in. warunkami atmosferycznymi.
+Wyniki naszych pomiarow porownujemy z  danymi uzyskanymi ze stacji monitoringowych.

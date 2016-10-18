@@ -1,0 +1,5 @@
+ROZMOWA
+Prof. Krzysztof  Ernst, kierownik Zakladu Optyki Instytutu Fizyki Doswiadczalnej Uniwersytetu Warszawskiego
+Z lidara korzysc mamy potrojna: uzyteczna, bo przy jego pomocy wykonujemy pomiary skazen atmosferycznych, korzysc naukowa - rozwijamy badania nad tym urzadzeniem, staramy sie m.in. rozszerzyc jego zastosowanie takze na inne substancje wystepujace w atmosferze.
+Badania, ktore prowadzimy, sa zainicjowane i finansowane  przez Fundacje Wspolpracy Polsko-Niemieckiej, dzieki ktorej ten lidar u nas zaistnial i dla ktorej w ramach naszych zobowiazan  wykonujemy pomiary zanieczyszczen nad nasza wspolna granica.
+Lidar typu DIAL jest oparty na pomiarze absorbcji roznicowej, czyli musza byc zastosowane dwie wiazki laserowe o dwoch roznych dlugosciach fali, z ktorych jedna jest absorbowana, a druga nie jest absorbowana przez substancje, ktora chcemy wykryc.

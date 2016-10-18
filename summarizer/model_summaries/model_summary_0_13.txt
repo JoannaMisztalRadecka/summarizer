@@ -1,0 +1,19 @@
+Co to jest lidar?
+PROF. KRZYSZTOF  ERNST: Jest to urzadzenie pozwalajace wyznaczac zanieczyszczenia atmosfery metodami optycznymi.
+DIAL - lidar absorbcji roznicowej potrafi rozroznic, co  mierzy.
+Wykrywa ozon, dwutlenek siarki, tlenki azotu, benzen, toluen.
+staramy sie rozszerzyc jego zastosowanie takze na inne substancje wystepujace w atmosferze.
+Pakiet software'u wzbogacamy o nowe algorytmy, ktore potrafia dokladniej rozszyfrowywac sygnal lidarowy, a w konsekwencji skazenia.
+Badania, ktore prowadzimy, sa zainicjowane i finansowane  przez Fundacje Wspolpracy Polsko-Niemieckiej.
+Chcemy mierzyc w Warszawie rozklady  koncentracji tlenkow azotu, ich ewolucje czasowa nad roznymi arteriami miasta.
+zamierzamy zakonczyc pomiary  skazen atmosferycznych nad granica polsko-niemiecka.
+Nasz lidar ma wieksze mozliwosci niz stacje monitoringowe.
+Mozemy sledzic ewolucje rozprzestrzeniania sie zanieczyszczen, ich kierunek i zmiany spowodowane m.in. warunkami atmosferycznymi.
+DIAL jest tym typem lidara, ktory dzisiaj ma najwieksze wziecie w ochronie srodowiska.
+Z lidarow korzysta meteorologia.
+W Europie takich lidarow jak nasz jest zaledwie kilka.
+Nasz lidar jest najnowoczesniejszym w Polsce.
+Ponadto jest lidarem ruchomym, zainstalowanym na samochodzie.
+Fizycy dotychczas nie zajmowali sie ochrona srodowiska?
+Taka specjalizacja powstala na Wydziale Fizyki UW dwa lata temu.
+Gwarancja sukcesu naszego programu dydaktyczno-badawczego jest udzial w nim zakladow nalezacych do Instytutu Fizyki Doswiadczalnej UW, Pracowni Przetwarzania Informacji Instytutu Geofizyki i wspolpraca z Freie Universitat Berlin.

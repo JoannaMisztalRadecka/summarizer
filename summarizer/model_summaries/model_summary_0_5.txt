@@ -1,0 +1,5 @@
+Jutro odbedzie sie pokaz nowego polskiego lidara typu DIAL.
+lidar Jest to urzadzenie pozwalajace wyznaczac zanieczyszczenia atmosfery metodami optycznymi.
+DIAL - lidar absorbcji roznicowej  jest urzadzeniem inteligentnym, to znaczy potrafi rozroznic, co  mierzy.
+Wykrywa ozon, dwutlenek siarki, tlenki azotu, benzen, toluen.
+Z lidara korzysc mamy potrojna: uzyteczna, naukowa I dydaktyczna.

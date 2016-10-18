@@ -1,0 +1,6 @@
+Co to jest lidar?
+PROF. KRZYSZTOF  ERNST: to urzadzenie pozwalajace wyznaczac zanieczyszczenia atmosfery metodami optycznymi.
+Wykrywa ozon, dwutlenek siarki, tlenki azotu, benzen, toluen.
+zamierzamy zakonczyc pomiary  skazen atmosferycznych nad granica polsko-niemiecka.
+Nasz lidar ma wieksze mozliwosci niz stacje monitoringowe.
+Mozemy sledzic ewolucje rozprzestrzeniania sie zanieczyszczen, ich kierunek i zmiany.
