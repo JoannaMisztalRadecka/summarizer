@@ -28,7 +28,7 @@ class WordTokenizer(Tokenizer):
     def tokenize(self, text):
         tokens = self.__get_tokens(text)
         tokens_filtered = [t.lower() for t in tokens if t not in self.stopwords]
-        stemmed = [unidecode(self.stemmer.get_stem(s)) for s in tokens_filtered if s]
+        stemmed = list(set([unidecode(self.stemmer.get_stem(s)) for s in tokens_filtered if s]))
         return stemmed
 
     def __get_stopwords(self):

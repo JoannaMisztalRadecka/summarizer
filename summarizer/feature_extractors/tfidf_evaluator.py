@@ -8,7 +8,7 @@ from tokenizer import WordTokenizer
 
 class TfIdfEvaluator(SentencesEvaluator):
     def __init__(self, language_params):
-        super(TfIdfEvaluator, self).__init__(language_params)
+        super(TfIdfEvaluator, self).__init__(language_params, "TF-IDF Evaluator")
         self.tokenizer = WordTokenizer(self.language_params)
         self.tf_idf = TfidfVectorizer(tokenizer=self.tokenizer.tokenize)
 
@@ -28,10 +28,9 @@ class TfIdfEvaluator(SentencesEvaluator):
         return sorted(sentences_weights, reverse=True)
 
     def __get_words_weights(self, test_set):
-        weights = self.tf_idf.transform(test_set).toarray()[0]
+        weights = self.tf_idf.transform([''.join(test_set)]).toarray()[0]
         features = self.tf_idf.get_feature_names()
         f_weights = zip(features, weights)
-        
         return dict(f_weights)
 
     def encode_list(self, list):

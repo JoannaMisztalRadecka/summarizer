@@ -4,8 +4,9 @@ from abc import ABCMeta, abstractmethod
 class SentencesEvaluator(object):
     __metaclass__ = ABCMeta
 
-    def __init__(self, language_params):
+    def __init__(self, language_params, name='Evaluator'):
         self.language_params = language_params
+        self.name = name
 
     @abstractmethod
     def evaluate(self, sentences):
@@ -15,4 +16,4 @@ class SentencesEvaluator(object):
         pass
 
     def __repr__(self):
-        return str(self.__class__)
+        return str(self.name)

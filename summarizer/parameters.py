@@ -1,18 +1,19 @@
 import os
+import settings
 
-from pl_stemmer import PolishStemmer
+from stemmers.sjp_stemmer import SJPStemmer
 # TODO: create language factory
 
 
 class LanguageParams(object):
     POLISH = 'pl'
     ENGLISH = 'en'
-    RESOURCES_PATH = 'resources'
+
     LANGUAGE_PARAMS = {
         'pl':
             {
                 'stopwords': 'stopwords_pl.txt',
-                'stemmer': PolishStemmer(),
+                'stemmer': SJPStemmer(settings.PYDIC_DICT_PATH),
                 'summaries_corpora': 'polish_summaries_corpora/PSC_1.0/data/',
                 'sentence_tokenizer': 'tokenizers/punkt/polish.pickle'
             }
@@ -26,4 +27,4 @@ class LanguageParams(object):
         self.tokenizer_path = self.LANGUAGE_PARAMS[self.language]['sentence_tokenizer']
 
     def __get_path(self, param):
-        return os.path.join(self.RESOURCES_PATH, self.LANGUAGE_PARAMS[self.language][param])
+        return os.path.join(settings.RESOURCES_PATH, self.LANGUAGE_PARAMS[self.language][param])

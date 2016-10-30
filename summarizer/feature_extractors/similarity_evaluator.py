@@ -8,6 +8,8 @@ from tokenizer import WordTokenizer
 
 
 class SimilarityEvaluator(SentencesEvaluator):
+    def __init__(self, language_params):
+        super(SimilarityEvaluator, self).__init__(language_params, 'Similarity Evaluator')
 
     def train(self, training_set):
         pass

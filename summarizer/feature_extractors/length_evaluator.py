@@ -21,6 +21,9 @@ class LengthEvaluator(SentencesEvaluator):
 
 class WordLengthEvaluator(LengthEvaluator):
 
+    def __init__(self, language_params):
+        super(WordLengthEvaluator, self).__init__(language_params, 'Word Length Evaluator')
+
     def _get_lengths(self, sentences):
         avg_lengths = []
         for i, s in enumerate(sentences):
@@ -31,6 +34,9 @@ class WordLengthEvaluator(LengthEvaluator):
 
 
 class SentenceLengthEvaluator(LengthEvaluator):
+
+    def __init__(self, language_params):
+        super(SentenceLengthEvaluator, self).__init__(language_params, 'Sentence Length Evaluator')
 
     def _get_lengths(self, sentences):
         avg_lengths = [len(s) for s in sentences]
